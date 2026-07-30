@@ -8,7 +8,7 @@ product id to be search
 
 sample input:[2,8,9,16,18,26,38,48,51,90]
 case1:product id to be reached:49
-case 2:
+case 2:product id to be searche:26
 
 */
 #include <stdio.h>

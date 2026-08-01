@@ -35,12 +35,10 @@ bool binarySearch(int arr[],int size, int target)
             high = mid - 1;
         }
     }
-if(true){
-    return true;
-}
-else{
-    return false;
-}
+     
+   
+return false;
+
 }
 
 int main()

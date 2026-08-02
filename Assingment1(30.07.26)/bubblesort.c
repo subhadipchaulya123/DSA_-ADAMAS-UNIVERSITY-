@@ -1,6 +1,6 @@
 /*
 A class teacher list of marks in random order all the marks are whole number before publishing the result the class teacher 
-wants to arrange the marks in an order so that the rank of the student can easily be dected.use a method to order the marks
+wants to arrange the marks in an order so that the rank of the student can easily be detcted.use a method to order the marks
  in assending order,which methodology you used here implement the method using c program
 
  sample input:[99,85,58,71,46,80,78,65,49,55]

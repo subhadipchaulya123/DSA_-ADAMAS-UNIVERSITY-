@@ -1,6 +1,7 @@
 /*
 WAP in c to take input in an array 10 unorder number and apply
 Quick sort to order the array i ascending order
+Sample input:[5,2,1,3,8,9,6,4,7,12]
 */
 
 #include<stdio.h>
